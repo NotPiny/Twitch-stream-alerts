@@ -1,0 +1,10 @@
+# The DEARGOD DO NOT COMMIT THIS files
+.env
+db/
+*-keys.*
+
+# The dont commit this unless you want it to take forever files
+node_modules/
+
+# The these are kinda useless in the repo files
+*.test.js
